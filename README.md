@@ -3,7 +3,7 @@
 </div>
 <h1 id="socials" align="center">
     <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://id.linkedin.com/in/sapto-aji-6579261b3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a target="_blank" href="mailto:saptoarray@gmail.com">
