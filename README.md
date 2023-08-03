@@ -27,7 +27,7 @@ ___
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <h1>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-java.gif" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
