@@ -32,23 +32,26 @@ ___
   <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-android-logo-100.png" title="Android" alt="Android" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-material-ui-48.png" title="Material UI" alt="Material UI" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-graphql-50.png" title="Graphql" alt="Graphql" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php"  alt="Php" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+   <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-redux-50.png" title="Redux" alt="Redux " width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+   <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-css-logo-50.png"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-html-logo-50.png" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-javascript.gif" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-firebase-24.png" title="Firebase" alt="Firebase" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-php-logo-50.png" title="Php"  alt="Php" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-mysql-logo-50.png" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   </h1>
   <h1>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind Css" **alt="TailwindCss" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn" **alt="Yarn" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java">
+  <img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-nodejs-64.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+    </a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-aws-logo-64.png" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-git-logo-50.png" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-nextjs-48.png" title="NextJS" alt="NextJS" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-tailwind-css-100.png" title="Tailwind Css" alt="TailwindCss" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-typescript-50.png" title="Typescript" alt="Typescript" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-visual-studio-50.png" title="VsCode" alt="VsCode" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-yarn-logo-64.png" title="Yarn" alt="Yarn" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java"><img src="https://github.com/SaptooAji/SaptooAji/blob/main/icons8-npm-logo-64.png" title="Yarn" alt="Yarn" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
   </h1>
 </div>
 
