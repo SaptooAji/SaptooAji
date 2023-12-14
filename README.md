@@ -9,7 +9,7 @@
   <a target="_blank" href="mailto:saptoarray@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://x.com/sapto__aji" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </h1>
