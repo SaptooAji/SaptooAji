@@ -28,9 +28,13 @@
 
 ## About Me
 
-I'm a software engineer interested in building reliable, maintainable, and user-friendly applications.
+I'm a **Full Stack Developer and Software Engineer with 6+ years of experience** designing, developing, and scaling end-to-end web applications across healthcare, reservation systems, and real-time platforms.
 
-I enjoy working across the development process, from designing application architecture and implementing features to refining user experiences and solving technical challenges.
+My technical experience spans **React, Next.js, TypeScript, Node.js, GraphQL, PostgreSQL, and AWS**, with hands-on experience integrating payment gateways, implementing real-time communication with WebSockets, and building CI/CD workflows.
+
+I care about writing maintainable code, designing reliable systems, and building solutions that solve real-world problems. I enjoy working through complex technical challenges, exploring better engineering practices, and continuously expanding my skills.
+
+I'm open to opportunities where I can contribute my experience, collaborate with talented engineering teams, and build impactful software. **Open to relocation.**
 
 My approach is simple: understand the problem, keep the solution practical, and write code that is easier to maintain as a project grows.
 
