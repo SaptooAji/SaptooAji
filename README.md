@@ -58,10 +58,9 @@ ___
 ___
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaptooAji&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SaptooAji)](https://github.com/stats-organization/github-stats-extended)
 ___
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaptooAji&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SaptooAji&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SaptooAji/SaptooAji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
