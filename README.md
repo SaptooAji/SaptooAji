@@ -3,13 +3,6 @@
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100" alt="Hello animation" />
 
   # Sapto Aji
-
-  ### Software Engineer · Web & Mobile Developer
-
-  I build software that solves real problems.
-
-  Focused on clean architecture, maintainable code, and practical digital solutions.
-
   <p>
     <a href="https://id.linkedin.com/in/sapto-aji-id">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
